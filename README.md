@@ -1,5 +1,5 @@
 # SELFBOTS
-[![PrankBots](https://img.fireden.net/v/image/1461/72/1461725093324.gif "Prankbots")](https://bit.ly/2xbVxlh)
+
 
 # SUPORT
 #### Tagall
@@ -22,14 +22,13 @@ V2.1 last update::
 
 # LINE ME
 
-http://line.me/ti/p/~adiputra.95
+http://line.me/ti/p/~_dseptyadi_
 
 # TUTORIAL YOUTUBE
 #### Command cara install dan loginya ada di deskripsi video
 #### Silahkan klik link nya
 https://youtu.be/H8cUWlBJG3c
-### SUBSCRIBE
-https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ
+
 
 
 ### THANKS TO.
